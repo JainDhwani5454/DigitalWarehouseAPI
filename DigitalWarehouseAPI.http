@@ -1,0 +1,6 @@
+@DigitalWarehouseAPI_HostAddress = http://localhost:5256
+
+GET {{DigitalWarehouseAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
